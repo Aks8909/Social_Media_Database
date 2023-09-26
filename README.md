@@ -1,6 +1,6 @@
 # Social_Media_Database
 
-Hi! in this DBMS project I have made a Social Media Database using SQL
+Hi! in this DBMS project I have made a Social Media Database using SQL</br>
 
 The functionalities of this system are,
 1.) Users can send and recieve messages
