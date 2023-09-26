@@ -1,0 +1,6 @@
+user_id,email,username,pass,first_name,last_name,gender,birth_date,age,date_created,active_status
+1,ayush@gmail.com,ayushks007,123,Ayush,Sinha,M,2001-07-30,21,2016-07-30,yes
+2,brad@gmail.com,tylerdurden,234,Brad,Pitt,M,1963-12-18,59,2008-12-18,yes
+3,norton@gmail.com,insomniac001,345,Edward,Norton,M,1969-08-18,54,2004-08-18,no
+4,sylvester@gmail.com,rockybalboa,456,Sylvester,Stallone,M,1946-07-06,77,2012-07-06,yes
+5,hugh@gmail.com,wolverine,567,Hugh,Jackman,M,1968-10-12,54,2014-10-12,yes
